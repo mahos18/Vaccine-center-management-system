@@ -108,5 +108,5 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 This project is **open-source** under the [MIT License](LICENSE).
 
 ---
-📧 **Need help?** Contact [Your Email] or open an issue!
+📧 **Need help?** Contact (sohamloohote@gmail.com) or open an issue!
 
