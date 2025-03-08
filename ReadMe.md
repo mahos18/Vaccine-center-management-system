@@ -32,7 +32,7 @@ The **Vaccine Management System** is a Java-based application that helps users b
 ## 🚀 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/vaccine-management-system.git
+git clone https://github.com/mahos18/Vaccine-center-management-system.git
 cd vaccine-management-system
 ```
 
