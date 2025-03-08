@@ -29,6 +29,20 @@ The **Vaccine Management System** is a Java-based application that helps users b
 - **IDE**: NetBeans
 - **Database Connectivity**: JDBC
 
+## 🖥️ Application UI
+### 📌 Start Page
+![Login/register](outputimages/main.png)
+
+### 📌 User Dashboard
+![User Dashboard](outputimages/userdash.png)
+![bookvaccine](outputimages/bookvaccine.png)
+### 📌 Admin Dashboard
+![Admin Dashboard](outputimages/admindash.png)
+![Data management](outputimages/admin.png)
+(outputimages/addvaccine.png)
+
+
+
 ## 🚀 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
