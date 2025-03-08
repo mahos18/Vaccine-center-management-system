@@ -39,7 +39,7 @@ The **Vaccine Management System** is a Java-based application that helps users b
 ### 📌 Admin Dashboard
 ![Admin Dashboard](outputimages/admindash.png)
 ![Data management](outputimages/admin.png)
-(outputimages/addvaccine.png)
+![Data management2](outputimages/addvaccine.png)
 
 
 
