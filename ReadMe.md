@@ -46,7 +46,7 @@ The **Vaccine Management System** is a Java-based application that helps users b
 ## 🚀 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/vaccine-management-system.git
+git clone https://github.com/mahos18/Vaccine-center-management-system.git
 cd vaccine-management-system
 ```
 
@@ -122,5 +122,5 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 This project is **open-source** under the [MIT License](LICENSE).
 
 ---
-📧 **Need help?** Contact [Your Email] or open an issue!
+📧 **Need help?** Contact (sohamloohote@gmail.com) or open an issue!
 
